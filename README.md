@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuKai0928
 - 👀 I’m interested in ...
-- 🌱 I’m major in Computer Science & Information Engineering 
+- 🌱 I’m major in Computer Science & Information Engineering in NTU(National Taiwan University)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?
 Email : zxc313233@gmail.com
